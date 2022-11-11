@@ -27,7 +27,7 @@ if (isset($_SESSION['usuario'])) {
 		<div class="container">
 			<div class="navbar-header">
 				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"><span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
-				<a class="navbar-brand" href="index.php">Maravillas Tour Riviera Maya</a>
+				<a class="navbar-brand" href="index.php">Maravillas Tour Riviera May</a>
 			</div>
 			<div class="navbar-collapse collapse">
 				<ul class="nav navbar-nav pull-right">
