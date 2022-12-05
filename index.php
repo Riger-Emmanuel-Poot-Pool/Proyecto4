@@ -86,7 +86,7 @@ if (isset($_SESSION['usuario'])) {
 			<center><img src="recursos/imagenes/c1.png" alt=""></center>
             <div class="carousel-caption">
 				<h3><FONT COLOR="Black"><b>Tour 1</b></FONT></h3>
-				<button type="button" class="btn btn-link"><a style = "color:Black" href = "tour1.php">Mas Informacion</a></button>
+				<button type="button" class="btn btn-link"><a style = "color:Green" href = "tour1.php">Mas Informacion</a></button>
             </div>
         </div>
   
@@ -94,7 +94,7 @@ if (isset($_SESSION['usuario'])) {
 			<center><img src="recursos/imagenes/c2.png" alt=""></center>
             <div class="carousel-caption">
                 <h3><FONT COLOR="Black"><b>Tour 2</b></FONT></h3>
-				<button type="button" class="btn btn-link"><a style = "color:Black" href = "tour2.php">Mas Informacion</a></button>
+				<button type="button" class="btn btn-link"><a style = "color:Green" href = "tour2.php">Mas Informacion</a></button>
             </div>
         </div>
         
@@ -102,7 +102,7 @@ if (isset($_SESSION['usuario'])) {
 			<center><img src="recursos/imagenes/c3.png" alt=""></center>
             <div class="carousel-caption">
                 <h3><FONT COLOR="Black"><b>Tour 3</b></FONT></h3>
-				<button type = "button" class="btn btn-link"><a style = "color:Black" href = "tour3.php">Mas Informacion</a></button>
+				<button type = "button" class="btn btn-link"><a style = "color:Green" href = "tour3.php">Mas Informacion</a></button>
             </div>
         </div>
     </div>
